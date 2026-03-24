@@ -21,10 +21,10 @@ A wave can be a thought, a message, a task, a proposal, a document, a reaction, 
 Wave doesn’t decide which waves matter. Communities do.
 
 What Wave does is make sure waves:
-	•	can move
-	•	can interact
-	•	can be revisited
-	•	can become stable when needed
+- can move
+- can interact
+- can be revisited
+- can become stable when needed
 
 Nothing is forced to disappear just because it’s old.
 Nothing is forced to stay important just because it was loud.
@@ -38,11 +38,11 @@ Spaces are where waves live. Each space has its own members, roles, norms, and r
 Wave doesn’t assume how a space should behave.
 
 A space can be:
-	•	a public community
-	•	a private team
-	•	a project
-	•	an experiment
-	•	a long-running archive
+- a public community
+- a private team
+- a project
+- an experiment
+- a long-running archive
 
 Spaces are isolated by design, but not sealed off. When communities choose to, waves can reach beyond their original space. Users can be part of multiple places at the same time and they share relationship and references while doing so.
 
@@ -70,16 +70,16 @@ It’s a choice made by people who need continuity.
 
 ## Structure without prescription
 
-Wave combines conversation with execution.
+Wave combines execution.
 
 Waves can turn into:
-	•	conversations
-	•	governance polls
-	•	boards
-	•	tasks
-	•	assignments
-	•	workflows
-	•	long-lived artifacts
+- conversations
+- governance polls
+- boards
+- tasks
+- assignments
+- workflows
+- long-lived artifacts
 
 But Wave never assumes that they must.
 
@@ -110,7 +110,7 @@ It’s a system that allows different ways of communicating to coexist — witho
 
 ## In short
 
-Wave gives structure to motion and thoughts.
+Wave gives structure to motion.
 
 What you do with it — casually or seriously, briefly or over years — is up to you and the spaces you’re part of.
 
