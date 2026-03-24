@@ -1,4 +1,4 @@
-# wave-documentation
+# wave-canon
 
 These documents define Wave’s invariants.
 
